@@ -1,4 +1,4 @@
-# Озвучка робота пилосмока Mi Robot Vacuum-Mop голосом легендарного українського митця та автора сатиричних п'єс Леся Подерв'янського
+# Озвучка робота пилосмока Mi Robot Vacuum-Mop P голосом легендарного українського митця та автора сатиричних п'єс Леся Подерв'янського
 
 ### Mi Robot Vacuum-Mop (Xiaomi Viomi Cleaning Robot V-RVCLM21B / Xiaomi Mijia Robot Vacuum Mop P STYJ02YM/ STYTJ02YM (SKV4110GL))
 
