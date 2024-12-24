@@ -9,15 +9,11 @@
 ### Можна оновлювати через ssh, або через MiHomeVevs, змінив main.bundle і запустив http сервер в своїй мережі.
 
 ## Корисна інформація:
-* **URL:** https://github.com/KonstantinDev7/Voice_Packs_for_Mi_Robot_S10_Plus/raw/refs/heads/main/Voice_Packs/LesV1ogg.tar.gz
-* **Size:** 2107482
-* **Md5:** 267b6a6bb90c14989ff4fb8369a29ead
+### Дякую автору звідки були взяті оригінальні файли і адаптовані до нашого пилососу.
+* **URL:** https://github.com/KonstantinDev7/
 
 
-## **UPD** - Додано озвучку GLaDOS
- * **URL:** https://github.com/KonstantinDev7/Voice_Packs_for_Mi_Robot_S10_Plus/raw/refs/heads/main/Voice_Packs/glados.tar.gz
- * **Size:** 9622469
- * **Md5:** d914742b2c4cedadf478053364ebb359
 
 ## Корисна інформація: Дана інструкція не підходить для нашої моделі!!!
-* **URL:** [https://github.com/KonstantinDev7/Voice_Packs_for_Mi_Robot_S10_Plus/raw/refs/heads/main/Voice_Packs/LesV1ogg.tar.gz](https://github.com/sverdlyuk/glados_ukr/)
+* **URL:** https://github.com/sverdlyuk/glados_ukr/
+
